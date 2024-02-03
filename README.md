@@ -19,4 +19,4 @@
 Yamayı kaldırmak için "Orijinal İngilizce Dosyalar (Yamayı geri almak için)" klasörünün içindekileri oyunun dizinine atın. İyi oyunlar!
 
 - brkyozell
-Steam >> https://steamcommunity.com/id/brkyozell/
+- rieux
