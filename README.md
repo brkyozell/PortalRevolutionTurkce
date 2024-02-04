@@ -2,7 +2,7 @@
 | İçerik     | Tamamlanma Yüzdesi |
 |------------|--------------------|
 | Menü       | %100               |
-| Altyazılar | %71                |
+| Altyazılar | %100               |
 | Videolar   | %47                |
 | Kaplamalar | %0                 |
 
