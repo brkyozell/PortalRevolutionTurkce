@@ -16,7 +16,7 @@
 
 "Türkçe Yama" klasörünün içindeki her şeyi karşınızda açılan klasöre atın. Modellemeleri dil seçeneklerine göre değiştiremediğimizden ötürü, yamayı İngilizce dosyalarının üzerine yazarak yapıyoruz. Dolayısıyla "Dosyanın üzerine yazılsın mı?" sorusuna, "Evet" diyebilirsiniz.
 
-Yamayı kaldırmak için "Orijinal İngilizce Dosyalar (Yamayı geri almak için)" klasörünün içindekileri oyunun dizinine atın. İyi oyunlar!
+Yamayı kaldırmak için oyun dosyalarının bütünlüğünü doğrulayabilirsiniz. Zira eğer biz buraya orijinal dosyaları da yüklersek, video ve kaplamalardan ötürü yama çok daha fazla gereksiz yer kaplayacak. İyi oyunlar!
 
 - brkyozell
 - Dr. Rieux
