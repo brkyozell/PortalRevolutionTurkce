@@ -3,7 +3,7 @@
 |------------|--------------------|
 | Menü       | %100               |
 | Altyazılar | %57                |
-| Videolar   | %0                 |
+| Videolar   | %47                |
 | Kaplamalar | %0                 |
 
 İşbu "Portal: Revolution" Türkçe yaması, sadece altyazılarla kalmayıp oyunda görebileceğiniz bütün videoları, posterleri, modelleri de Türkçeye çeviriyor. Tam anlamıyla bir yerelleştirme denilebilir.
