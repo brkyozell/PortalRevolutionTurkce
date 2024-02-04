@@ -2,7 +2,7 @@
 | İçerik     | Tamamlanma Yüzdesi |
 |------------|--------------------|
 | Menü       | %100               |
-| Altyazılar | %57                |
+| Altyazılar | %100               |
 | Videolar   | %47                |
 | Kaplamalar | %0                 |
 
@@ -19,4 +19,4 @@
 Yamayı kaldırmak için oyun dosyalarının bütünlüğünü doğrulayabilirsiniz. Zira eğer biz buraya orijinal dosyaları da yüklersek, video ve kaplamalardan ötürü yama çok daha fazla gereksiz yer kaplayacak. İyi oyunlar!
 
 - brkyozell
-- Dr. Rieux
+- Rieuxx
