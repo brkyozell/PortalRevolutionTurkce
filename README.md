@@ -1,4 +1,4 @@
-# Yama daha tamamlanmadı, ne kadar ilerlediğimiz aşağıda gözüküyor.
+# Oyun-içi altyazılar tamamlandı!
 | İçerik     | Tamamlanma Yüzdesi |
 |------------|--------------------|
 | Menü       | %100               |
