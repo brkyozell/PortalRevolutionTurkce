@@ -1,10 +1,12 @@
-# Oyun-içi altyazılar tamamlandı!
-| İçerik     | Tamamlanma Yüzdesi |
-|------------|--------------------|
-| Menü       | %100               |
-| Altyazılar | %100               |
-| Videolar   | %47                |
-| Kaplamalar | %?                 |
+# Portal: Revolution // Türkçe Yama
+> Oyun-içi altyazılar tamamlandı! Yama artık indirilmeye hazır.
+
+| İçerik     | Tamamlanma Yüzdesi                      |
+|------------|-----------------------------------------|
+| Menü       | %100                                    |
+| Altyazılar | %100                                    |
+| Videolar   | %47                                     |
+| Kaplamalar | (Oyundaki kaplama sayısını bilmiyoruz)  |
 
 ## Nasıl Kurulur?
 
