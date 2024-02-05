@@ -4,7 +4,7 @@
 | Menü       | %100               |
 | Altyazılar | %100               |
 | Videolar   | %47                |
-| Kaplamalar | %0                 |
+| Kaplamalar | %?                 |
 
 ## Nasıl Kurulur?
 
