@@ -7,7 +7,7 @@
   gerekmeyecek.
 - Oyunun ana klasöründe halihazırda bulunan dosyalar silindi.
 - Eksik kullanıcı arayüzü çevirileri eklendi, bazı çevirilerde ise ufak
-  düzenlemelere gidildi.
+  düzenlemelere gidildi. (Büyüteç Anahtarı ne be :))
 
 ## [1.0.0] - 5 Şubat 2024
 
