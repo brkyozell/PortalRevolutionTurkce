@@ -23,3 +23,4 @@ Gelecek süreçte bu "Portal: Revolution" Türkçe yaması, sadece altyazılarla
 
 - brkyozell
 - Rieuxx
+- sadness.py
