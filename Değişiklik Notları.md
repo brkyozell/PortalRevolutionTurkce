@@ -5,7 +5,9 @@
 - Artık İngilizce sürümün üzerine yazmak yerine ayrı bir `subtitles_turkish.txt`
   kullanıyoruz. Bundan sonra yamayı kaldırmak için dosyaları yeniden indirmeniz
   gerekmeyecek.
-- Panorama klasörü silindi, hâlihazırda dosyalar bulunmakta zaten.
+- Oyunun ana klasöründe halihazırda bulunan dosyalar silindi.
+- Eksik kullanıcı arayüzü çevirileri eklendi, bazı çevirilerde ise ufak
+  düzenlemelere gidildi.
 
 ## [1.0.0] - 5 Şubat 2024
 
