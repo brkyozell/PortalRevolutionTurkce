@@ -2,7 +2,9 @@
 
 ## [1.1.0] - 13 Şubat 2024
 
-- Artık İngilizce sürümün üzerine yazmak yerine ayrı bir `subtitles_turkish.txt` kullanıyoruz.
+- Artık İngilizce sürümün üzerine yazmak yerine ayrı bir `subtitles_turkish.txt`
+  kullanıyoruz. Bundan sonra yamayı kaldırmak için dosyaları yeniden indirmeniz
+  gerekmeyecek. 
 
 ## [1.0.0] - 5 Şubat 2024
 
