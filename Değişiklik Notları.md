@@ -4,7 +4,8 @@
 
 - Artık İngilizce sürümün üzerine yazmak yerine ayrı bir `subtitles_turkish.txt`
   kullanıyoruz. Bundan sonra yamayı kaldırmak için dosyaları yeniden indirmeniz
-  gerekmeyecek. 
+  gerekmeyecek.
+- Panorama klasörü silindi, hâlihazırda dosyalar bulunmakta zaten.
 
 ## [1.0.0] - 5 Şubat 2024
 
