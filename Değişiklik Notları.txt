@@ -1,4 +1,0 @@
->> v1.0
-
-* İlk kararlı sürüm.
-* Oyundaki bütün altyazılar Türkçeye çevrildi.
