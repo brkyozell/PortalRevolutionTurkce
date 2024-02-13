@@ -1,5 +1,6 @@
 # Portal: Revolution // Türkçe Yama
-> Oyun-içi altyazılar tamamlandı! Yama artık indirilmeye hazır.
+> [!NOTE]
+> Türkçe desteği resmi olarak yayınlandı, fakat yeni getirilen güncelleme yalnızca altyazıları içermektedir.
 
 | İçerik     | Tamamlanma Yüzdesi                      |
 |------------|-----------------------------------------|
@@ -10,9 +11,9 @@
 
 ## Nasıl Kurulur?
 
-1) Steam'de Kütüphanenize girin.
-2) Soldaki listeden Portal: Revolution'a sağ tıklayın.
-3) (Yönet --> Yerel dosyalara göz at) seçeneğine gidin.
+1. Steam'de Kütüphanenize girin.
+2. Soldaki listeden Portal: Revolution'a sağ tıklayın.
+3. (Yönet --> Yerel dosyalara göz at) seçeneğine gidin.
 
 "Türkçe Yama" klasörünün içindeki her şeyi karşınızda açılan klasöre atın. Modellemeleri dil seçeneklerine göre değiştiremediğimizden ötürü, yamayı İngilizce dosyalarının üzerine yazarak yapıyoruz. Dolayısıyla "Dosyanın üzerine yazılsın mı?" sorusuna, "Evet" diyebilirsiniz.
 
@@ -22,3 +23,4 @@ Gelecek süreçte bu "Portal: Revolution" Türkçe yaması, sadece altyazılarla
 
 - brkyozell
 - Rieuxx
+- sadness.py
