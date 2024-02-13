@@ -1,5 +1,6 @@
 # Portal: Revolution // Türkçe Yama
-> Oyun-içi altyazılar tamamlandı! Yama artık indirilmeye hazır.
+> [!NOTE]
+> Türkçe desteği resmi olarak yayınlandı, fakat yeni getirilen güncelleme yalnızca altyazıları içermektedir.
 
 | İçerik     | Tamamlanma Yüzdesi                      |
 |------------|-----------------------------------------|
